@@ -3,7 +3,7 @@
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaazmath&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaazmath" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamad-Anwar&label=Profile%20views&color=0e75b6&style=flat" alt="Hamad-Anwar" /> </p>
 
 
 
